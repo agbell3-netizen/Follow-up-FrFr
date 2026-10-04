@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-labelledby="t">
+  <title id="t">An email envelope with a chat bubble showing a reply</title>
+  <rect width="400" height="300" rx="24" fill="#1c1726"/>
+  <rect x="70" y="90" width="200" height="140" rx="12" fill="#100d17" stroke="#863cff" stroke-width="4"/>
+  <path d="M74 98 L170 172 L266 98" fill="none" stroke="#863cff" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M220 50 h120 a16 16 0 0 1 16 16 v52 a16 16 0 0 1 -16 16 h-74 l-26 22 v-22 h-20 a16 16 0 0 1 -16 -16 v-52 a16 16 0 0 1 16 -16 z" fill="#6dff4d"/>
+  <g fill="#100d17"><circle cx="246" cy="92" r="7"/><circle cx="270" cy="92" r="7"/><circle cx="294" cy="92" r="7"/></g>
+  <circle cx="300" cy="226" r="10" fill="#6EC6FF"/>
+  <circle cx="330" cy="200" r="6" fill="#6EC6FF"/>
+</svg>

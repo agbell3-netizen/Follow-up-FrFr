@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Contact Follow-Up Fr Fr to ask a follow-up question, request a consultation, or join the weekly follow-up tips email list.">
+  <meta name="keywords" content="contact, follow-up tips, newsletter, sales follow-up help, small business">
+  <meta name="author" content="Aaron Bell">
+  <title>Contact | Follow-Up Fr Fr</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <nav class="main-nav" aria-label="Main navigation">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="frameworks.html">Frameworks</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html" class="current" aria-current="page">Contact</a></li>
+      </ul>
+    </nav>
+    <a href="index.html" class="logo" aria-label="Follow-Up Fr Fr home">FUFF</a>
+  </header>
+
+  <main>
+
+    <section class="page-hero">
+      <h1>Let's talk follow-up</h1>
+      <p class="subtext">Have a question about following up with your own customers? Want weekly tips in your inbox? Fill out the form below and I'll get back to you within two business days.</p>
+    </section>
+
+    <section class="contact-layout">
+
+      <form class="contact-form" action="#" method="post">
+        <div class="form-row">
+          <div class="form-field">
+            <label for="name">Name <span class="required">*</span></label>
+            <input type="text" id="name" name="name" autocomplete="name" placeholder="First and last name" required>
+          </div>
+          <div class="form-field">
+            <label for="email">Email <span class="required">*</span></label>
+            <input type="email" id="email" name="email" autocomplete="email" placeholder="you@example.com" required>
+          </div>
+        </div>
+
+        <div class="form-field">
+          <label for="business">Business type</label>
+          <select id="business" name="business">
+            <option value="">Choose one</option>
+            <option value="barber-salon">Barber or salon</option>
+            <option value="cleaning">Cleaning or home services</option>
+            <option value="fitness">Fitness or coaching</option>
+            <option value="real-estate">Real estate</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+
+        <fieldset class="form-field">
+          <legend>What can I help with?</legend>
+          <div class="radio-group">
+            <label class="choice"><input type="radio" name="reason" value="question" checked> Ask a question</label>
+            <label class="choice"><input type="radio" name="reason" value="consultation"> Request a consultation</label>
+            <label class="choice"><input type="radio" name="reason" value="newsletter"> Newsletter only</label>
+          </div>
+        </fieldset>
+
+        <div class="form-field">
+          <label for="challenge">Biggest follow-up challenge</label>
+          <textarea id="challenge" name="challenge" rows="5" placeholder="Tell me what's getting in the way of following up with your leads or customers."></textarea>
+        </div>
+
+        <label class="choice">
+          <input type="checkbox" name="newsletter" value="yes"> Yes, send me one follow-up tip every week
+        </label>
+
+        <button type="submit" class="btn btn-primary">Send message</button>
+      </form>
+
+      <aside class="contact-side">
+        <img src="images/inbox.svg" alt="Illustration of an email envelope with a chat bubble showing a reply" width="400" height="300">
+        <h2>Prefer email?</h2>
+        <p>You can also reach me directly at <a href="mailto:agbell3@asu.edu">agbell3@asu.edu</a>.</p>
+        <h2>What happens next</h2>
+        <ol class="next-steps">
+          <li>I read every message myself.</li>
+          <li>You'll get a reply within two business days.</li>
+          <li>If you joined the email list, your first tip arrives the following Monday.</li>
+        </ol>
+      </aside>
+
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <nav class="footer-nav" aria-label="Footer navigation">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="frameworks.html">Frameworks</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+    <a href="index.html" class="logo" aria-label="Follow-Up Fr Fr home">FUFF</a>
+    <p class="copyright">&copy; 2026 Follow-Up Fr Fr. Created by Aaron Bell for CIS 300.</p>
+  </footer>
+
+</body>
+</html>

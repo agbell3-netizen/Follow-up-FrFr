@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 400" width="480" height="400" role="img" aria-labelledby="t">
+  <title id="t">Five follow-up messages along a path ending in a booked call</title>
+  <rect width="480" height="400" rx="24" fill="#1c1726"/>
+  <path d="M60 330 C 140 330, 120 250, 200 250 S 260 170, 330 170 S 400 90, 420 80" fill="none" stroke="#2e2640" stroke-width="10" stroke-linecap="round"/>
+  <path d="M60 330 C 140 330, 120 250, 200 250 S 260 170, 330 170 S 400 90, 420 80" fill="none" stroke="#863cff" stroke-width="3" stroke-dasharray="2 12" stroke-linecap="round"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#b9b4c7">
+    <circle cx="60" cy="330" r="14" fill="#863cff"/><text x="60" y="365" text-anchor="middle">Day 1</text>
+    <circle cx="150" cy="290" r="14" fill="#863cff"/><text x="150" y="325" text-anchor="middle">Day 3</text>
+    <circle cx="232" cy="236" r="14" fill="#863cff"/><text x="232" y="271" text-anchor="middle">Day 5</text>
+    <circle cx="330" cy="170" r="14" fill="#863cff"/><text x="330" y="205" text-anchor="middle">Day 8</text>
+  </g>
+  <circle cx="420" cy="80" r="24" fill="#6dff4d"/>
+  <path d="M409 80 l8 8 l15 -16" fill="none" stroke="#100d17" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="420" y="132" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">Booked</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="14">
+    <rect x="40" y="40" width="210" height="44" rx="14" fill="#863cff"/>
+    <text x="58" y="67" fill="#ffffff">Just checking in!</text>
+    <rect x="40" y="96" width="250" height="44" rx="14" fill="#6EC6FF"/>
+    <text x="58" y="123" fill="#100d17">Sorry, busy week. Thursday?</text>
+  </g>
+</svg>
