@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-labelledby="t">
+  <title id="t">Stopwatch showing a lead answered in under five minutes</title>
+  <rect width="400" height="300" rx="24" fill="#1c1726"/>
+  <rect x="186" y="40" width="28" height="18" rx="4" fill="#863cff"/>
+  <circle cx="200" cy="160" r="92" fill="#100d17" stroke="#863cff" stroke-width="8"/>
+  <path d="M200 160 L200 68 A92 92 0 0 1 287.5 131.6 Z" fill="#6dff4d" opacity="0.85"/>
+  <g stroke="#2e2640" stroke-width="4" stroke-linecap="round">
+    <path d="M200 80 v10"/><path d="M280 160 h-10"/><path d="M200 240 v-10"/><path d="M120 160 h10"/>
+  </g>
+  <path d="M200 160 L262 116" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="200" cy="160" r="8" fill="#ffffff"/>
+  <text x="200" y="210" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff">0:04:12</text>
+</svg>

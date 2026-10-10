@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 400" width="480" height="400" role="img" aria-labelledby="t">
+  <title id="t">Email, text, phone, and in-person follow-up leading to one booked customer</title>
+  <rect width="480" height="400" rx="24" fill="#1c1726"/>
+  <g fill="none" stroke="#2e2640" stroke-width="6" stroke-linecap="round">
+    <path d="M110 80 C 200 80, 220 200, 350 200"/>
+    <path d="M110 160 C 200 160, 230 200, 350 200"/>
+    <path d="M110 240 C 200 240, 230 200, 350 200"/>
+    <path d="M110 320 C 200 320, 220 200, 350 200"/>
+  </g>
+  <g fill="#863cff">
+    <rect x="50" y="56" width="60" height="48" rx="12"/>
+    <rect x="50" y="136" width="60" height="48" rx="12"/>
+    <rect x="50" y="216" width="60" height="48" rx="12"/>
+    <rect x="50" y="296" width="60" height="48" rx="12"/>
+  </g>
+  <g fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="64" y="68" width="32" height="24" rx="3"/>
+    <path d="M64 70 L80 82 L96 70"/>
+    <path d="M66 148 h28 a4 4 0 0 1 4 4 v14 a4 4 0 0 1 -4 4 h-16 l-8 6 v-6 h-4 a4 4 0 0 1 -4 -4 v-14 a4 4 0 0 1 4 -4 z"/>
+    <path d="M70 228 c0 12 8 20 20 20 l4 -6 l-7 -5 l-4 3 c-3 -2 -6 -5 -8 -8 l3 -4 l-5 -7 z"/>
+    <circle cx="80" cy="312" r="6"/>
+    <path d="M68 334 c2 -9 7 -13 12 -13 s10 4 12 13"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#b9b4c7">
+    <text x="122" y="70">Email</text>
+    <text x="122" y="150">Text</text>
+    <text x="122" y="230">Phone</text>
+    <text x="122" y="310">In person</text>
+  </g>
+  <circle cx="380" cy="200" r="40" fill="#6dff4d"/>
+  <path d="M362 200 l12 12 l24 -24" fill="none" stroke="#100d17" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="380" y="270" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff">Booked</text>
+</svg>

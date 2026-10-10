@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-labelledby="t">
+  <title id="t">A friendly follow-up message and a happy reply</title>
+  <rect width="400" height="300" rx="24" fill="#1c1726"/>
+  <rect x="120" y="50" width="240" height="70" rx="20" fill="#863cff"/>
+  <path d="M330 120 l20 18 v-22 z" fill="#863cff"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="15" fill="#ffffff">
+    <text x="140" y="80">Still want that Saturday</text>
+    <text x="140" y="102">spot? No pressure.</text>
+  </g>
+  <rect x="40" y="160" width="220" height="70" rx="20" fill="#6dff4d"/>
+  <path d="M70 230 l-20 18 v-22 z" fill="#6dff4d"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="15" fill="#100d17">
+    <text x="60" y="190">Yes! Thanks for the</text>
+    <text x="60" y="212">reminder, 2pm please</text>
+  </g>
+</svg>

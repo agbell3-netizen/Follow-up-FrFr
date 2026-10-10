@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-labelledby="t">
+  <title id="t">Calendar with a reminder three weeks after the last visit</title>
+  <rect width="400" height="300" rx="24" fill="#1c1726"/>
+  <rect x="80" y="50" width="240" height="200" rx="16" fill="#100d17" stroke="#863cff" stroke-width="4"/>
+  <rect x="80" y="50" width="240" height="44" rx="16" fill="#863cff"/>
+  <rect x="80" y="78" width="240" height="16" fill="#863cff"/>
+  <text x="200" y="79" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Next cut</text>
+  <g fill="#2e2640">
+    <rect x="100" y="110" width="26" height="22" rx="4"/><rect x="132" y="110" width="26" height="22" rx="4"/><rect x="164" y="110" width="26" height="22" rx="4"/><rect x="196" y="110" width="26" height="22" rx="4"/><rect x="228" y="110" width="26" height="22" rx="4"/><rect x="260" y="110" width="26" height="22" rx="4"/>
+    <rect x="132" y="142" width="26" height="22" rx="4"/><rect x="164" y="142" width="26" height="22" rx="4"/><rect x="196" y="142" width="26" height="22" rx="4"/><rect x="228" y="142" width="26" height="22" rx="4"/><rect x="260" y="142" width="26" height="22" rx="4"/>
+    <rect x="100" y="174" width="26" height="22" rx="4"/><rect x="132" y="174" width="26" height="22" rx="4"/><rect x="164" y="174" width="26" height="22" rx="4"/><rect x="196" y="174" width="26" height="22" rx="4"/><rect x="260" y="174" width="26" height="22" rx="4"/>
+    <rect x="100" y="206" width="26" height="22" rx="4"/><rect x="132" y="206" width="26" height="22" rx="4"/><rect x="164" y="206" width="26" height="22" rx="4"/><rect x="196" y="206" width="26" height="22" rx="4"/><rect x="228" y="206" width="26" height="22" rx="4"/><rect x="260" y="206" width="26" height="22" rx="4"/>
+  </g>
+  <rect x="100" y="142" width="26" height="22" rx="4" fill="#6EC6FF"/>
+  <rect x="228" y="174" width="26" height="22" rx="4" fill="#6dff4d"/>
+  <path d="M116 168 C 150 230, 210 230, 238 200" fill="none" stroke="#ffffff" stroke-width="3" stroke-dasharray="4 6" stroke-linecap="round"/>
+</svg>
